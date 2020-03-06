@@ -1,0 +1,5 @@
+Name,Lat,Lon,Ratings,Link,Wiki
+Mahasthangarh,24.961856,89.346133,4.4,https://upload.wikimedia.org/wikipedia/commons/6/6c/BD_Mahasthangarh1.JPG,https://en.wikipedia.org/wiki/Mahasthangarh
+Sompur Mahavihara,25.031401,88976808,4.5,https://upload.wikimedia.org/wikipedia/commons/4/42/Paharpur_Buddhist_Bihar.jpg,https://en.wikipedia.org/wiki/Somapura_Mahavihara
+Panam City,23.6562985,90.6054671,4.8,https://upload.wikimedia.org/wikipedia/commons/d/d8/Panam_city_sonargaon.JPG,https://en.wikipedia.org/wiki/Panam_Nagar
+Choto Shona Masjid,24.8136913,88.1410989,4.6,https://upload.wikimedia.org/wikipedia/commons/d/de/Choto_Sona_Mosque_%28side_view%29.jpg,https://en.wikipedia.org/wiki/Choto_Sona_Mosque
