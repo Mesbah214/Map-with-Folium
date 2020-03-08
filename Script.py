@@ -50,7 +50,6 @@ folium.Choropleth(
 fgm = folium.FeatureGroup(name='places')
 for name, lat, lon, ratings, wiki, pic in zip(names, lats, lons, rating, wikis, pics):
     fgm.add_child(folium.CircleMarker(
-        name='places',
         location=[lat, lon],
         radius=9,
         tooltip='Click for more info',
