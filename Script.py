@@ -29,10 +29,10 @@ map = folium.Map(
 
 
 def color_producer(number):
-    if ratings >= 4.5:
+    if ratings > 4.5:
         return 'green'
     else:
-        return 'blue'
+        return 'orange'
 
 
 folium.Choropleth(
